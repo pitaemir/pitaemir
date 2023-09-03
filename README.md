@@ -1,5 +1,7 @@
 ### Emir Bráz de Araújo Marques JR 💊
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pitaemir&show_icons=true&theme=merko)
+
 <div>
    <a href = "https://www.linkedin.com/in/emirbrazd2/" target = "_blank"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black">
 </div>
