@@ -17,7 +17,9 @@
 
     
 <div align = "center">
-<a href = "https://twitter.com/emirbrdz" target = "_blank"><img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black">
-<a href = "https://www.facebook.com/emirbrzd2" target = "_blank"><img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=black">
+  
+  ![illusion](https://github.com/pitaemir/pitaemir/assets/88199858/f123f244-8fab-4ec1-89d8-7d6768d71da8) <a href = "https://twitter.com/emirbrdz" target = "_blank"><img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black">
+    
+   ![invisibility](https://github.com/pitaemir/pitaemir/assets/88199858/b0832c77-d011-4683-b0b0-2b0352d66a91) <a href = "https://www.facebook.com/emirbrzd2" target = "_blank"><img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=black">
   </div>
   
