@@ -3,14 +3,14 @@
 <div align = "center">
   
   ![doubledamage](https://github.com/pitaemir/pitaemir/assets/88199858/ed46b2a4-63e6-4779-b6c7-e6177efb940f)
+  
   <a href = "https://www.linkedin.com/in/emirbrazd2/" target = "_blank"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black">
   
   ![arcane_rune](https://github.com/pitaemir/pitaemir/assets/88199858/a99888a2-4b61-463e-9e53-c87bc8fc3780)
+  
   <a href = "https://www.instagram.com/emirb.png/" target = "_blank"><img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black">
 </div>
 
-<div align = "right">
-</div>
 <a href="https://github.com/piaemir">
 
 <div align="center">
