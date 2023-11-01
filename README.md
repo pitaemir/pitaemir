@@ -9,7 +9,7 @@
 </div>
 
     
-<div>
+<div align="center">
 
   ![doubledamage](https://github.com/pitaemir/pitaemir/assets/88199858/ed46b2a4-63e6-4779-b6c7-e6177efb940f) <a href = "https://www.linkedin.com/in/emirbrazd2/" target = "_blank"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black">
   
