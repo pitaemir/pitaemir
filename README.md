@@ -1,23 +1,88 @@
-## Emir Bráz ![tp](https://github.com/pitaemir/pitaemir/assets/88199858/aa0b7869-b841-40ac-87e7-0121bc8ea8cd)
+body {
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
 
-<a href="https://github.com/piaemir">
+.animation-container {
+    position: relative;
+    width: 600px;
+    height: 400px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
 
-<div align="center">
-  <a href="https://github.com/pitaemir">
-  <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=pitaemir&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pitaemir&layout=compact&langs_count=7&theme=shadow_red"/>
-</div>
+.frame {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    opacity: 0;
+    transition: opacity 1s ease-in-out;
+}
+
+#frame2, #frame3, #frame4 {
+    font-size: 20px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    margin: 5px 0;
+}
+
+const frames = document.querySelectorAll('.frame');
+let currentFrame = 0;
+
+function showNextFrame() {
+    frames[currentFrame].style.opacity = '0';
+    currentFrame = (currentFrame + 1) % frames.length;
+    frames[currentFrame].style.opacity = '1';
+}
+
+setInterval(showNextFrame, 3000);
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animated Profile</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="animation-container">
+        <div class="frame" id="frame1">Meet Emir Bráz</div>
+        <div class="frame" id="frame2">
+            <p>Currently studying at the</p>
+            <p>Federal University of Santa Catarina</p>
+            <p>Computer Engineering</p>
+        </div>
+        <div class="frame" id="frame3">
+            <p>Interests</p>
+            <ul>
+                <li>Hardware</li>
+                <li>Semiconductor</li>
+                <li>Silicon</li>
+                <li>Game Developing</li>
+                <li>Backend Developing</li>
+            </ul>
+        </div>
+        <div class="frame" id="frame4">Future Innovator in Technology</div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
 
 
-##
-
-    
-<div align="center">
-
-![doubledamage](https://github.com/pitaemir/pitaemir/assets/88199858/ed46b2a4-63e6-4779-b6c7-e6177efb940f)   <a href = "https://www.linkedin.com/in/emirbrazd2/" target = "_blank"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black"> ![arcane_rune](https://github.com/pitaemir/pitaemir/assets/88199858/a99888a2-4b61-463e-9e53-c87bc8fc3780)    <a href = "https://www.instagram.com/emirb.png/" target = "_blank"><img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black"> ![illusion](https://github.com/pitaemir/pitaemir/assets/88199858/f123f244-8fab-4ec1-89d8-7d6768d71da8)       <a href = "https://twitter.com/emirbrdz" target = "_blank"><img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black"> ![invisibility](https://github.com/pitaemir/pitaemir/assets/88199858/b0832c77-d011-4683-b0b0-2b0352d66a91)   <a href = "https://www.facebook.com/emirbrzd2" target = "_blank"><img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=black">
-
-
-
-  
-  </div>
-  
