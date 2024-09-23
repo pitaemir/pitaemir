@@ -42,8 +42,8 @@
 ##  🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-youremail@example.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/yourlinkedinprofile"><img src="https://img.shields.io/badge/-Your%20LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:emirbraz.d2@gmail.com"><img src="https://img.shields.io/badge/-youremail@example.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/emirbrazd2/"><img src="https://img.shields.io/badge/-Your%20LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 </p>
 
 <!--
