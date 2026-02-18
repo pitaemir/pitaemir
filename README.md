@@ -22,4 +22,5 @@ I work as a freelance developer building:
 - Semiconductors  
 - Digital Systems  
 - Automation  
+
 I enjoy working close to the hardware and understanding systems at their core.
