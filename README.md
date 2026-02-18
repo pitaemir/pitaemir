@@ -1,4 +1,4 @@
-# Hey there 👋
+## Hey there 👋
 
 I'm **Emir**, a Computer Engineering student.
 
@@ -6,9 +6,7 @@ I design and build software solutions — from low-level systems to full-stack a
 
 If there’s a technical challenge, chances are I’m already working on it.
 
----
-
-## What I Do
+### What I Do
 
 I work as a freelance developer building:
 
@@ -17,18 +15,14 @@ I work as a freelance developer building:
 - Database Systems
 - Embedded Systems
 
----
-
-## Specialties
+### Specialties
 
 - Backend Development  
 - Mobile Development  
 - Database Architecture  
 - Embedded Systems  
 
----
-
-## Passion
+### Passion
 
 - Chip Design  
 - Verilog & SystemVerilog  
